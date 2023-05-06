@@ -1,0 +1,22 @@
+{
+  "name": "ark-rcon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ark_rcon.js",
+  "scripts": {
+    "ark-rcon": "node ark_rcon.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rcon-client": "^1.0.0",
+    "yargs": "^17.3.1"
+  },
+  "config": {
+    "host": "your host",
+    "port": "your port",
+    "password": "your password"
+  }
+}

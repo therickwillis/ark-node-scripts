@@ -1,0 +1,15 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+Thumbs.db
